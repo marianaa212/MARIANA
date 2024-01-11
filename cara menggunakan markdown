@@ -1,0 +1,9 @@
+Markdown adalah satu bahasa yang diciptakan untuk mempermudah pembuatan dan pembacaan kode HTML. Markdown diciptakan dalam bahasa Perl. Format tulisan markdown sendiri adalah plain-text yang
+artinya kamu bisa membuat markdown dari text-editor biasa seperti notepad, sublime, emacs, vi, vi, dll. Lisensi markdown sendiri adalah opensource BSD.
+
+Lalu bagaimana cara membuat dokumen markdown?
+Caranya mudah. Cukup install perl dan pasang library markdown.
+Pertama-tama komputer atau laptop kamu harus sudah terinstall perl, jika belum kamu bisa download dari sini.
+Jika sudah terinstall perl, kamu bisa mendownload library markdown dari sini.
+Buat file markdown. Jika kamu belum bisa membuat, kamu bisa menggunakan contoh file markdown disini
+Compile file markdown dengan perintah perl Markdown.pl --html4tags file_kamu.md. Perintah tersebut akan menghasilkan output file html yang dapat kamu buka lewat browser.
